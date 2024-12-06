@@ -1,0 +1,187 @@
+#-----Inventory-----
+
+#Bow 0 - None
+32002320 0000
+
+#Bow 1- Bow
+32002320 0001
+
+#Bow 2 - Bow & Arrows
+32002320 0002
+
+#Bow 3 - Bow
+32002320 0003
+
+#Bow 4 - Bow & Silver Arrows
+32002320 0004
+
+#Boomerang 0 - None
+32002321 0000
+
+#Boomerang 1 - Boomerang
+32002321 0001
+
+#Boomerang 2 - Magic Boomerang
+32002321 0002
+
+#Mushroom/Powder 0 - None
+32002324 0000
+
+#Mushroom/Powder 1 - Mushroom
+32002324 0001
+
+#Mushroom/Powder 2 - Magic Powder
+32002324 0002
+
+#Bottle A 0 - None
+32002325 0000
+
+#Bottle A 1 - Mushroom?
+32002325 0001
+
+#Bottle A 2 - Empty
+32002325 0002
+
+#Bottle A 3 - Life Medicine
+32002325 0003
+
+#Bottle A 4 - Magic Medicine
+32002325 0004
+
+#Bottle A 5 - Cure-All Medicine
+32002325 0005
+
+#Bottle A 6 - Fairy
+32002325 0006
+
+#Bottle A 7 - Bee
+32002325 0007
+
+#Bottle A 8 - Golden Bee
+32002325 0008
+
+#Bottle B 0 - None
+3200232B 0000
+
+#Bottle B 1 - Mushroom?
+3200232B 0001
+
+#Bottle B 2 - Empty
+3200232B 0002
+
+#Bottle B 3 - Life Medicine
+3200232B 0003
+
+#Bottle B 4 - Magic Medicine
+3200232B 0004
+
+#Bottle B 5 - Cure-All Medicine
+3200232B 0005
+
+#Bottle B 6 - Fairy
+3200232B 0006
+
+#Bottle B 7 - Bee
+3200232B 0007
+
+#Bottle B 8 - Golden Bee
+3200232B 0008
+
+#Bottle C 0 - None
+32002331 0000
+
+#Bottle C 1 - Mushroom?
+32002331 0001
+
+#Bottle C 2 - Empty
+32002331 0002
+
+#Bottle C 3 - Life Medicine
+32002331 0003
+
+#Bottle C 4 - Magic Medicine
+32002331 0004
+
+#Bottle C 5 - Cure-All Medicine
+32002331 0005
+
+#Bottle C 6 - Fairy
+32002331 0006
+
+#Bottle C 7 - Bee
+32002331 0007
+
+#Bottle C 8 - Golden Bee
+32002331 0008
+
+#Bottle D 0 - None
+32002337 0000
+
+#Bottle D 1 - Mushroom?
+32002337 0001
+
+#Bottle D 2 - Empty
+32002337 0002
+
+#Bottle D 3 - Life Medicine
+32002337 0003
+
+#Bottle D 4 - Magic Medicine
+32002337 0004
+
+#Bottle D 5 - Cure-All Medicine
+32002337 0005
+
+#Bottle D 6 - Fairy
+32002337 0006
+
+#Bottle D 7 - Bee
+32002337 0007
+
+#Bottle D 8 - Golden Bee
+32002337 0008
+
+#Glove 0 - None
+32002338 0000
+
+#Glove 1 - Power Glove
+32002338 0001
+
+#Glove 2 - Titan's Mitt
+32002338 0002
+
+#Sword 0 
+3200233D 0000
+
+#Sword 1
+3200233D 0001
+
+#Sword 2
+3200233D 0002
+
+#Sword 3
+3200233D 0003
+
+#Sword 4
+3200233D 0004
+
+#Shield 0
+3200233E 0000
+
+#Shield 1
+3200233E 0001
+
+#Shield 2
+3200233E 0002
+
+#Shield 3
+3200233E 0003
+
+#Armor 0
+3200233F 0000
+
+#Armor 1
+3200233F 0001
+
+#Armor 2
+3200233F 0002
